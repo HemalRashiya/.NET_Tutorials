@@ -12,6 +12,7 @@ namespace Tutorial___1
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("This is a simple C# program.");
+            Console.WriteLine("I am a hemal.");
             
         }
     }
