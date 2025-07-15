@@ -6,16 +6,13 @@ using System.Threading.Tasks;
 
 namespace Tutorial___1
 {
-    internal class T8
+    internal class T12
     {
-        public static void t8()
+        public static void t12()
         {
             Console.Write("INPUT : ");
             String str = Console.ReadLine();
-            str = str.ToUpper();
-            Console.WriteLine("OUTPUT : " + str);
-
-            
+            Console.WriteLine("\nOUTPUT : "+str);
         }
     }
 }
