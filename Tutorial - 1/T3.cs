@@ -13,11 +13,11 @@ namespace Tutorial___1
             int n = 6;
             if(n%2 == 0)
             {
-                Console.WriteLine("n is even");
+                Console.WriteLine("number is even");
             }
             else
             {
-                Console.WriteLine("n is odd");
+                Console.WriteLine("number is odd");
             }
         }
     }

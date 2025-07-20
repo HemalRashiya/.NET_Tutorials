@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Tutorial___1
+namespace Tutorial___Array
 {
     internal class Program
     {
@@ -19,21 +19,7 @@ namespace Tutorial___1
             //T7.t7();
             //T8.t8();
             //T9.t9();
-            //T10.t10();
-            //T11.t11();
-            //T12.t12();
-            //T13.t13();
-            //T14.t14();
-            //T15.t15();
-            //T16.t16();
-            //T17.t17();
-            //T18.t18();
-            //T19.t19();
-            //T20.t20();
-            //T21.t21();
-            T22.t22();
-
-
+            T10.t10();
         }
     }
 }
