@@ -12,8 +12,10 @@ namespace Tutorial___1
         {
           Console.WriteLine("Input the number of terms : ");
             String terms = Console.ReadLine();
+
             Console.WriteLine("Input number : ");
             String number = Console.ReadLine();
+
             int ans = 0, num = 0,total = 0;
             num = Convert.ToInt32(number);
             for (int i = 1; i <= Convert.ToInt32(terms); i++)

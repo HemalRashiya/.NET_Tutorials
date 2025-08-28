@@ -12,7 +12,7 @@ namespace Tutorial___Array
         {
             int[] arr = new int[5];
             string str;
-            int temp;
+           
             for (int i = 0; i < 5; i++)
             {
                 Console.Write("Enter value " + (i + 1) + " : ");
